@@ -1,0 +1,55 @@
+{
+    "artist": {
+        "id": "2",
+        "name": "Daniel Caesar",
+        "albums": [
+            {
+                "id": "201",
+                "title": "Freudian",
+                "release_year": 2017,
+                "tracks": [
+                    "Get You",
+                    "Best Part",
+                    "Hold Me Down",
+                    "Neu Roses (Transgressor's Song)",
+                    "Loose",
+                    "We Find Love",
+                    "Blessed",
+                    "Take Me Away",
+                    "Transform",
+                    "Freudian"
+                ]
+            },
+            {
+                "id": "202",
+                "title": "Case Study 01",
+                "release_year": 2019,
+                "tracks": [
+                    "ENTROPY",
+                    "CYANIDE",
+                    "LOVE AGAIN",
+                    "FRONTAL LOBE MUZIK",
+                    "OPEN UP",
+                    "RESTORE THE FEELING",
+                    "SUPERPOSITION",
+                    "TOO DEEP TO TURN BACK",
+                    "COMPLEXITIES",
+                    "ARE YOU OK?"
+                ]
+            },
+            {
+                "id": "203",
+                "title": "Pilgrim's Paradise",
+                "release_year": 2015,
+                "tracks": [
+                    "Streetcar",
+                    "Death & Taxes",
+                    "Paradise",
+                    "Show No Regret",
+                    "Little Rowboat",
+                    "Chevalier"
+                ]
+            }
+        ]
+    }
+}

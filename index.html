@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Music Dashboard</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="sidebar">
+        <h3>Menu</h3>
+        <ul>
+          <li><i class="fas fa-music"></i> Songs</li>
+          <li><i class="fas fa-compact-disc"></i> Albums</li>
+          <li><i class="fas fa-user"></i> Artists</li>
+          <li id="recommendMe" class="recommender-system">
+            <i class="fas fa-star"></i> Recommend Me!
+          </li>
+        </ul>
+      </div>
+      <div class="main">
+        <div class="header">
+          <div class="title-card">
+            <div class="banner-container">
+              <h1>Octave</h1>
+              <img
+                src="https://cdna.artstation.com/p/assets/images/images/061/159/670/large/julien-wacquez-warhammer-40k-blood-angels-landscape-mars-2023.jpg?1680132562"
+                alt="banner" />
+            </div>
+          </div>
+          <div class="profile-card">
+            <img
+              src="./resources/ryu.jpg"
+              alt="Profile Photo"
+              class="profile-photo" />
+            <div class="profile-info">
+              <p style="font-weight: bold">Ryu Mendoza</p>
+              <p>Premium</p>
+              <p>1.2k Followers</p>
+            </div>
+          </div>
+        </div>
+
+        <div id="dynamic-content" class="dynamic">
+          <div class="section">
+            <h2>Popular</h2>
+            <div class="grid">
+              <div class="card1">Artist 1</div>
+              <div class="card2">Artist 2</div>
+              <div class="card3">Artist 3</div>
+              <div class="card4">Artist 4</div>
+              <div class="card5">Artist 5</div>
+            </div>
+          </div>
+          <div class="section">
+            <h2>Local Radio</h2>
+            <div class="grid">
+              <div class="card">Song 1</div>
+              <div class="card">Song 2</div>
+              <div class="card">Song 3</div>
+            </div>
+          </div>
+          <div class="section">
+            <h2>Recommended for You</h2>
+            <div class="grid">
+              <div class="r1">Music</div>
+              <div class="r2">Sports</div>
+              <div class="r3">News</div>
+              <div class="r4">Podcasts</div>
+              <div class="r5"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="dynamic-content.js"></script>
+    <script src="get-top-artist.js"></script>
+    <script src="modal.js"></script>
+    <script src="recommender-system.js"></script>
+  </body>
+</html>

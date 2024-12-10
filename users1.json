@@ -1,0 +1,558 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "genres": {
+      "pop": 5,
+      "rock": -1,
+      "hip-hop": -1,
+      "jazz": -1,
+      "classical": -1
+    },
+    "artists": [
+      "Taylor Swift",
+      "Ariana Grande",
+      "Katy Perry",
+      "Beyoncé",
+      "Justin Bieber"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "genres": {
+      "pop": 5,
+      "rock": -1,
+      "hip-hop": -1,
+      "jazz": -1,
+      "classical": -1
+    },
+    "artists": [
+      "Taylor Swift",
+      "Ariana Grande",
+      "Katy Perry",
+      "Beyoncé",
+      "Justin Bieber"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "genres": {
+      "pop": 5,
+      "rock": -1,
+      "hip-hop": -1,
+      "jazz": -1,
+      "classical": -1
+    },
+    "artists": [
+      "Taylor Swift",
+      "Ariana Grande",
+      "Katy Perry",
+      "Beyoncé",
+      "Justin Bieber"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Dave",
+    "genres": {
+      "pop": 5,
+      "rock": -1,
+      "hip-hop": -1,
+      "jazz": -1,
+      "classical": -1
+    },
+    "artists": [
+      "Taylor Swift",
+      "Ariana Grande",
+      "Katy Perry",
+      "Beyoncé",
+      "Justin Bieber"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Eve",
+    "genres": {
+      "pop": 5,
+      "rock": -1,
+      "hip-hop": -1,
+      "jazz": -1,
+      "classical": -1
+    },
+    "artists": [
+      "Taylor Swift",
+      "Ariana Grande",
+      "Katy Perry",
+      "Beyoncé",
+      "Justin Bieber"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Frank",
+    "genres": {
+      "hardcore": 5,
+      "nu-metal": 5,
+      "rock": -1,
+      "hip-hop": -1,
+      "jazz": -1,
+      "classical": -1
+    },
+    "artists": [
+      "Hatebreed",
+      "Korn",
+      "Slipknot",
+      "Limp Bizkit",
+      "System of a Down"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Grace",
+    "genres": {
+      "hardcore": 5,
+      "nu-metal": 5,
+      "rock": -1,
+      "hip-hop": -1,
+      "jazz": -1,
+      "classical": -1
+    },
+    "artists": [
+      "Hatebreed",
+      "Korn",
+      "Slipknot",
+      "Limp Bizkit",
+      "System of a Down"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Hank",
+    "genres": {
+      "hardcore": 5,
+      "nu-metal": 5,
+      "rock": -1,
+      "hip-hop": -1,
+      "jazz": -1,
+      "classical": -1
+    },
+    "artists": [
+      "Hatebreed",
+      "Korn",
+      "Slipknot",
+      "Limp Bizkit",
+      "System of a Down"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Ivy",
+    "genres": {
+      "hardcore": 5,
+      "nu-metal": 5,
+      "rock": -1,
+      "hip-hop": -1,
+      "jazz": -1,
+      "classical": -1
+    },
+    "artists": [
+      "Hatebreed",
+      "Korn",
+      "Slipknot",
+      "Limp Bizkit",
+      "System of a Down"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Jack",
+    "genres": {
+      "hardcore": 5,
+      "nu-metal": 5,
+      "rock": -1,
+      "hip-hop": -1,
+      "jazz": -1,
+      "classical": -1
+    },
+    "artists": [
+      "Hatebreed",
+      "Korn",
+      "Slipknot",
+      "Limp Bizkit",
+      "System of a Down"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Karen",
+    "genres": {
+      "pop": 3,
+      "rock": 3,
+      "hip-hop": 3,
+      "jazz": 3,
+      "classical": 3
+    },
+    "artists": [
+      "Taylor Swift",
+      "Metallica",
+      "Kendrick Lamar",
+      "Miles Davis",
+      "Ludwig van Beethoven"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Liam",
+    "genres": {
+      "pop": 3,
+      "rock": 3,
+      "hip-hop": 3,
+      "jazz": 3,
+      "classical": 3
+    },
+    "artists": [
+      "Taylor Swift",
+      "Metallica",
+      "Kendrick Lamar",
+      "Miles Davis",
+      "Ludwig van Beethoven"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Mia",
+    "genres": {
+      "pop": 3,
+      "rock": 3,
+      "hip-hop": 3,
+      "jazz": 3,
+      "classical": 3
+    },
+    "artists": [
+      "Taylor Swift",
+      "Metallica",
+      "Kendrick Lamar",
+      "Miles Davis",
+      "Ludwig van Beethoven"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Nina",
+    "genres": {
+      "pop": 3,
+      "rock": 3,
+      "hip-hop": 3,
+      "jazz": 3,
+      "classical": 3
+    },
+    "artists": [
+      "Taylor Swift",
+      "Metallica",
+      "Kendrick Lamar",
+      "Miles Davis",
+      "Ludwig van Beethoven"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Oliver",
+    "genres": {
+      "pop": 3,
+      "rock": 3,
+      "hip-hop": 3,
+      "jazz": 3,
+      "classical": 3
+    },
+    "artists": [
+      "Taylor Swift",
+      "Metallica",
+      "Kendrick Lamar",
+      "Miles Davis",
+      "Ludwig van Beethoven"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Peter",
+    "genres": {
+      "pop": 5,
+      "hardcore": 4,
+      "nu-metal": 3,
+      "rock": -1,
+      "hip-hop": -1,
+      "jazz": -1,
+      "classical": -1
+    },
+    "artists": [
+      "Taylor Swift",
+      "Hatebreed",
+      "Korn",
+      "Slipknot",
+      "Limp Bizkit"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Quinn",
+    "genres": {
+      "pop": 5,
+      "hardcore": 4,
+      "nu-metal": 3,
+      "rock": -1,
+      "hip-hop": -1,
+      "jazz": -1,
+      "classical": -1
+    },
+    "artists": [
+      "Taylor Swift",
+      "Hatebreed",
+      "Korn",
+      "Slipknot",
+      "Limp Bizkit"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Rachel",
+    "genres": {
+      "pop": 5,
+      "hardcore": 4,
+      "nu-metal": 3,
+      "rock": -1,
+      "hip-hop": -1,
+      "jazz": -1,
+      "classical": -1
+    },
+    "artists": [
+      "Taylor Swift",
+      "Hatebreed",
+      "Korn",
+      "Slipknot",
+      "Limp Bizkit"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Sam",
+    "genres": {
+      "pop": 5,
+      "rock": 3,
+      "hip-hop": 3,
+      "jazz": 3,
+      "classical": 3
+    },
+    "artists": [
+      "Taylor Swift",
+      "Metallica",
+      "Kendrick Lamar",
+      "Miles Davis",
+      "Ludwig van Beethoven"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Tina",
+    "genres": {
+      "pop": 5,
+      "rock": 3,
+      "hip-hop": 3,
+      "jazz": 3,
+      "classical": 3
+    },
+    "artists": [
+      "Taylor Swift",
+      "Metallica",
+      "Kendrick Lamar",
+      "Miles Davis",
+      "Ludwig van Beethoven"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Uma",
+    "genres": {
+      "pop": 5,
+      "rock": 3,
+      "hip-hop": 3,
+      "jazz": 3,
+      "classical": 3
+    },
+    "artists": [
+      "Taylor Swift",
+      "Metallica",
+      "Kendrick Lamar",
+      "Miles Davis",
+      "Ludwig van Beethoven"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Victor",
+    "genres": {
+      "hardcore": 5,
+      "nu-metal": 5,
+      "rock": 3,
+      "hip-hop": 3,
+      "jazz": 3,
+      "classical": 3
+    },
+    "artists": [
+      "Hatebreed",
+      "Korn",
+      "Metallica",
+      "Kendrick Lamar",
+      "Miles Davis"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Wendy",
+    "genres": {
+      "hardcore": 5,
+      "nu-metal": 5,
+      "rock": 3,
+      "hip-hop": 3,
+      "jazz": 3,
+      "classical": 3
+    },
+    "artists": [
+      "Hatebreed",
+      "Korn",
+      "Metallica",
+      "Kendrick Lamar",
+      "Miles Davis"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Xavier",
+    "genres": {
+      "hardcore": 5,
+      "nu-metal": 5,
+      "rock": 3,
+      "hip-hop": 3,
+      "jazz": 3,
+      "classical": 3
+    },
+    "artists": [
+      "Hatebreed",
+      "Korn",
+      "Metallica",
+      "Kendrick Lamar",
+      "Miles Davis"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Yara",
+    "genres": {
+      "pop": 5,
+      "rock": -1,
+      "hip-hop": -1,
+      "jazz": -1,
+      "classical": -1
+    },
+    "artists": [
+      "Taylor Swift",
+      "Ariana Grande",
+      "Katy Perry",
+      "Beyoncé",
+      "Justin Bieber"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Zeke",
+    "genres": {
+      "hardcore": 5,
+      "nu-metal": 5,
+      "rock": -1,
+      "hip-hop": -1,
+      "jazz": -1,
+      "classical": -1
+    },
+    "artists": [
+      "Hatebreed",
+      "Korn",
+      "Slipknot",
+      "Limp Bizkit",
+      "System of a Down"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Aria",
+    "genres": {
+      "pop": 3,
+      "rock": 3,
+      "hip-hop": 3,
+      "jazz": 3,
+      "classical": 3
+    },
+    "artists": [
+      "Taylor Swift",
+      "Metallica",
+      "Kendrick Lamar",
+      "Miles Davis",
+      "Ludwig van Beethoven"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Ben",
+    "genres": {
+      "rock": 5,
+      "pop": 3,
+      "hip-hop": 2,
+      "jazz": -1,
+      "classical": -1
+    },
+    "artists": [
+      "Metallica",
+      "Taylor Swift",
+      "Kendrick Lamar",
+      "Miles Davis",
+      "Ludwig van Beethoven"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Cara",
+    "genres": {
+      "hardcore": 5,
+      "nu-metal": 4,
+      "rock": 3,
+      "hip-hop": -1,
+      "jazz": -1,
+      "classical": -1
+    },
+    "artists": [
+      "Hatebreed",
+      "Korn",
+      "Slipknot",
+      "Limp Bizkit",
+      "System of a Down"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Dana",
+    "genres": {
+      "pop": 5,
+      "rock": 3,
+      "hip-hop": 3,
+      "jazz": 3,
+      "classical": 3
+    },
+    "artists": [
+      "Taylor Swift",
+      "Metallica",
+      "Kendrick Lamar",
+      "Miles Davis",
+      "Ludwig van Beethoven"
+    ]
+  }
+]
