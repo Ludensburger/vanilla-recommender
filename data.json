@@ -1,0 +1,14 @@
+{
+    "users": {
+      "user1": {"rock": 4, "pop": 5, "jazz": null, "classical": 3},
+      "user2": {"rock": 5, "pop": 2, "jazz": 4, "classical": null},
+      "user3": {"rock": null, "pop": 3, "jazz": 5, "classical": 4}
+    },
+    "genres": {
+      "rock": ["Artist1", "Artist2"],
+      "pop": ["Artist3", "Artist4"],
+      "jazz": ["Artist5", "Artist6"],
+      "classical": ["Artist7", "Artist8"]
+    }
+  }
+  

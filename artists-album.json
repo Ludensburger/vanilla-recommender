@@ -1,0 +1,143 @@
+[
+    {
+      "artist": "Knocked Loose",
+      "albums": [
+        {
+          "title": "A Different Shade of Blue",
+          "songs": ["Mistakes Like Fractures", "Trapped in the Grasp of a Memory", "Guided by the Moon"],
+          "popularity": 85
+        }
+      ]
+    },
+    {
+      "artist": "Ariana Grande",
+      "albums": [
+        {
+          "title": "Thank U, Next",
+          "songs": ["7 Rings", "Thank U, Next", "Break Up with Your Girlfriend, I'm Bored"],
+          "popularity": 90
+        }
+      ]
+    },
+    {
+      "artist": "Katy Perry",
+      "albums": [
+        {
+          "title": "Teenage Dream",
+          "songs": ["Firework", "California Gurls", "Teenage Dream"],
+          "popularity": 88
+        }
+      ]
+    },
+    {
+      "artist": "Beyoncé",
+      "albums": [
+        {
+          "title": "Lemonade",
+          "songs": ["Formation", "Hold Up", "Sorry"],
+          "popularity": 92
+        }
+      ]
+    },
+    {
+      "artist": "Justin Bieber",
+      "albums": [
+        {
+          "title": "Purpose",
+          "songs": ["Sorry", "Love Yourself", "What Do You Mean?"],
+          "popularity": 88
+        }
+      ]
+    },
+    {
+      "artist": "Hatebreed",
+      "albums": [
+        {
+          "title": "Perseverance",
+          "songs": ["I Will Be Heard", "Live for This", "A Call for Blood"],
+          "popularity": 80
+        }
+      ]
+    },
+    {
+      "artist": "Korn",
+      "albums": [
+        {
+          "title": "Follow the Leader",
+          "songs": ["Freak on a Leash", "Got the Life", "Dead Bodies Everywhere"],
+          "popularity": 90
+        }
+      ]
+    },
+    {
+      "artist": "Slipknot",
+      "albums": [
+        {
+          "title": "Iowa",
+          "songs": ["People = Shit", "Left Behind", "The Heretic Anthem"],
+          "popularity": 91
+        }
+      ]
+    },
+    {
+      "artist": "Limp Bizkit",
+      "albums": [
+        {
+          "title": "Significant Other",
+          "songs": ["Nookie", "Break Stuff", "Re-Arranged"],
+          "popularity": 85
+        }
+      ]
+    },
+    {
+      "artist": "System of a Down",
+      "albums": [
+        {
+          "title": "Toxicity",
+          "songs": ["Chop Suey!", "Toxicity", "Aerials"],
+          "popularity": 93
+        }
+      ]
+    },
+    {
+      "artist": "Metallica",
+      "albums": [
+        {
+          "title": "Master of Puppets",
+          "songs": ["Master of Puppets", "Battery", "Welcome Home (Sanitarium)"],
+          "popularity": 95
+        }
+      ]
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "albums": [
+        {
+          "title": "To Pimp a Butterfly",
+          "songs": ["Alright", "King Kunta", "The Blacker the Berry"],
+          "popularity": 94
+        }
+      ]
+    },
+    {
+      "artist": "Miles Davis",
+      "albums": [
+        {
+          "title": "Kind of Blue",
+          "songs": ["So What", "Freddie Freeloader", "Blue in Green"],
+          "popularity": 96
+        }
+      ]
+    },
+    {
+      "artist": "Ludwig van Beethoven",
+      "albums": [
+        {
+          "title": "Symphony No. 9",
+          "songs": ["Ode to Joy", "Scherzo", "Adagio molto e cantabile"],
+          "popularity": 98
+        }
+      ]
+    }
+  ]
+  

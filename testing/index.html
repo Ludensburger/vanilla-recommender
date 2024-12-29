@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Music Recommender</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="cold-start">
+      <h2>Welcome! Let's Get to Know Your Music Taste</h2>
+      <p>Please rate the following songs (1-5):</p>
+      <div id="song-rating-list">
+        <!-- Dynamically populate this with songs -->
+      </div>
+      <button id="submit-ratings">Submit Ratings</button>
+    </div>
+    <div id="recommendations" style="display: none">
+      <h2>Recommendations:</h2>
+      <ul id="recommended-genres"></ul>
+      <h3>Artists:</h3>
+      <ul id="recommended-artists"></ul>
+    </div>
+
+    <div id="app">
+      <h1>Music Recommender System</h1>
+      <div id="user-select">
+        <label for="users">Select a User:</label>
+        <select id="users"></select>
+      </div>
+      <div id="recommendations">
+        <h2>Recommendations:</h2>
+        <ul id="recommended-genres"></ul>
+        <h3>Artists:</h3>
+        <ul id="recommended-artists"></ul>
+      </div>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>

@@ -124,6 +124,7 @@ body {
 
 .grid {
     display: grid;
+    align-items: center;
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
     gap: 10px;
 }
@@ -141,6 +142,42 @@ body {
 .card3,
 .card4,
 .card5 {
+    background: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.r1,
+.r2,
+.r3,
+.r4,
+.r5 {
+    background: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.topArtist1,
+.topArtist2,
+.topArtist3,
+.topArtist4,
+.topArtist5 {
+    background: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.radio1,
+.radio2,
+.radio3,
+.radio4,
+.radio5 {
     background: #fff;
     padding: 10px;
     border-radius: 5px;
